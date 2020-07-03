@@ -1,0 +1,232 @@
+<pack name="PACK-2">
+  <level name="LEVEL-1" nextlevel="LEVEL-2" challengetime="10" levelnumber="1" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ObstacleWallLittle" position="3.396379,1.123382,-0.8400412" rotation="0,90,0" scale="0.5,0.5,0.3" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="DodgeBall" position="1.430511E-06,0.169359,3.23102" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="MemekoBall" position="-0.004435062,0.169359,-4.788543" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleWallLittle" position="-3.394906,1.123382,-0.8400412" rotation="0,90,0" scale="0.5,0.5,0.3" type="Prefab" />
+    <prefab name="ObstacleMovable" position="0,0.4762756,-0.8722799" rotation="0,90,0" scale="0.5,0.3,0.15" type="Prefab" />
+  </level>
+  <level name="LEVEL-2" nextlevel="LEVEL-3" challengetime="10" levelnumber="2" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ObstacleMovable" position="-1.552428,0.476276,4.511677" rotation="0,90,0" scale="0.5,0.3,0.4" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="DodgeBall" position="1.430511E-06,0.169359,3.23102" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="MemekoBall" position="-0.3017087,0.169359,-3.467328" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleWallLittle" position="-4.918183,1.123382,-1.731862" rotation="0,90,0" scale="0.5,0.5,0.25" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="0.01329803,0,1.875397" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="ObstacleMovable" position="-2.54334,0.4762756,-1.962282" rotation="0,0,0" scale="0.5,0.3,0.15" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="1.529599,1.123382,-1.734329" rotation="0,90,0" scale="0.7,0.5,0.4" type="Prefab" />
+  </level>
+  <level name="LEVEL-3" nextlevel="LEVEL-4" challengetime="15" levelnumber="3" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ObstacleMovable" position="3.798498,0.476276,4.511677" rotation="0,0,0" scale="0.7,0.3,0.4" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="DodgeBall" position="1.55243,0.169359,5.87345" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="MemekoBall" position="-3.802932,0.169359,4.526029" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleWallLittle" position="-1.945448,1.123382,5.699976" rotation="0,0,0" scale="0.5,0.5,0.25" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="1.268453,0,4.253584" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="1.529599,1.123382,0.9411306" rotation="0,90,0" scale="0.7,0.5,0.4" type="Prefab" />
+  </level>
+  <level name="LEVEL-4" nextlevel="LEVEL-5" challengetime="10" levelnumber="4" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ObstacleMovable" position="1.750614,0.476276,5.469558" rotation="0,0,0" scale="0.5,0.3,0.3" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="DodgeBall" position="0,0.169359,0" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="MemekoBall" position="-3.274446,0.169359,-4.953694" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="cilindro1x1x1" position="0,0,2.602064" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="ObstacleMovable" position="-1.849702,0.4762756,5.469558" rotation="0,0,0" scale="0.5,0.3,0.3" type="Prefab" />
+  </level>
+  <level name="LEVEL-5" nextlevel="LEVEL-6" challengetime="10" levelnumber="5" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ObstacleMovable" position="-0.033571,0.476276,-2.432506" rotation="0,0,0" scale="0.4,0.3,0.15" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="0.9110545,1.123382,-0.298676" rotation="0,0,0" scale="0.5,0.5,0.25" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="1.458188,1.123382,5.190179" rotation="0,0,0" scale="0.4,0.5,0.5" type="Prefab" />
+    <prefab name="ObstacleMovable" position="-0.03357053,0.476276,1.24524" rotation="0,0,0" scale="0.4,0.3,0.2" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="DodgeBall" position="0,0.169359,3.515891" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="MemekoBall" position="-2.84597,0.169359,-1.026002" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleWallLittle" position="-1.017085,1.123382,-0.2986755" rotation="0,0,0" scale="0.5,0.5,0.25" type="Prefab" />
+    <prefab name="ObstacleMovable" position="-0.03928018,0.4762756,-3.893086" rotation="0,90,0" scale="0.5,0.3,0.4" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="-1.576846,1.123382,5.190179" rotation="0,0,0" scale="0.4,0.5,0.5" type="Prefab" />
+  </level>
+  <level name="LEVEL-6" nextlevel="LEVEL-7" challengetime="10" levelnumber="6" cameraSize="9.3" memekoForce="40" maxturns="1" >
+    <prefab name="ObstacleMovable" position="1.016029,0.476276,0.5943347" rotation="0,55,0" scale="0.4,0.3,0.15" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="3.013527,1.123382,3.587623" rotation="0,130,0" scale="0.7,0.5,0.25" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="DodgeBall" position="-1.777621,0.169359,4.623768" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="MemekoBall" position="-3.458625,0.169359,-5.779697" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleWallLittle" position="-2.004304,1.123382,-2.645646" rotation="0,90,0" scale="0.7,0.5,0.4" type="Prefab" />
+    <prefab name="ObstacleMovable" position="-1.832732,0.476276,1.896066" rotation="0,330,0" scale="0.5,0.3,0.5" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="3.359728,1.123382,-6.543547" rotation="0,50,0" scale="0.7,0.5,0.2" type="Prefab" />
+  </level>
+  <level name="LEVEL-7" nextlevel="LEVEL-8" challengetime="15" levelnumber="7" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="cilindro1x1x1" position="4.039648,0,4.454662" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="MemekoBall" position="0.03716362,0.169359,-5.685637" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="cilindro1x1x1" position="-4.286016,0,4.316626" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="2.060723,0,2.58234" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="0.03656597,1.123382,2.558839" rotation="0,90,0" scale="0.7,0.5,0.2" type="Prefab" />
+    <prefab name="DodgeBall" position="-2.031281,0.169359,6.86143" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="cilindro1x1x1" position="4.074541,0,0.1842838" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="-2.02907,0,2.52783" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="cilindro2x2x1" position="1.336328,0,8.07482" rotation="0,0,0" scale="2,1,2" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="-4.076746,0,0.09499002" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+  </level>
+  <level name="LEVEL-8" nextlevel="LEVEL-9" challengetime="10" levelnumber="8" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ObstacleWallLittle" position="3.802347,1.123382,-7.357806" rotation="0,79.46341,0" scale="0.5,0.5,0.2" type="Prefab" />
+    <prefab name="ObstacleMovable" position="3.89011,0.476276,-0.6412596" rotation="0,0,0" scale="0.4,0.3,0.15" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="MemekoBall" position="-3.06197,0.169359,-6.510177" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="DodgeBall" position="0.04428947,0.169359,6.518982" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleMovable" position="3.235501,0.476276,4.008063" rotation="0,160,0" scale="0.4,0.3,0.15" type="Prefab" />
+    <prefab name="ObstacleMovable" position="1.846405,0.4762756,6.839191" rotation="0,130,0" scale="0.5,0.3,0.15" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="-1.317732,1.123382,-1.064868" rotation="0,90,0" scale="0.5,0.5,0.5" type="Prefab" />
+  </level>
+  <level name="LEVEL-9" nextlevel="LEVEL-10" challengetime="15" levelnumber="9" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ObstacleWallLittle" position="-3.786715,1.123382,6.166839" rotation="0,40,0" scale="0.5,0.5,0.2" type="Prefab" />
+    <prefab name="ObstacleMovable" position="-1.568923,0.476276,1.09312" rotation="0,90,0" scale="0.4,0.3,0.5" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="MemekoBall" position="3.989284,0.169359,-6.851367" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleWallLittle" position="2.053623,1.123382,-2.601706" rotation="0,90,0" scale="0.5,0.5,0.45" type="Prefab" />
+    <prefab name="DodgeBall" position="-3.424475,0.169359,3.051482" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+  </level>
+  <level name="LEVEL-10" nextlevel="LEVEL-11" challengetime="15" levelnumber="10" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ObstacleWallLittle" position="-0.829738,1.123382,1.901971" rotation="0,90,0" scale="0.5,0.5,0.2" type="Prefab" />
+    <prefab name="ObstacleMovable" position="4.117572,0.476276,0.7233156" rotation="0,0,0" scale="0.4,0.3,0.8" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="MemekoBall" position="-2.948234,0.169359,-6.851367" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleWallLittle" position="2.13892,1.123382,-1.663436" rotation="0,0,0" scale="0.7,0.5,0.45" type="Prefab" />
+    <prefab name="DodgeBall" position="2.603209,0.169359,5.46824" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleWallLittle" position="-3.845777,1.123382,-1.57139" rotation="0,0,0" scale="0.7,0.5,0.45" type="Prefab" />
+  </level>
+  <level name="LEVEL-11" nextlevel="LEVEL-12" challengetime="10" levelnumber="11" cameraSize="9.3" memekoForce="50" maxturns="1">
+    <prefab name="ObstacleWallRotational" position="2.512856,1.189211,3.516678" rotation="0,0,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="-1.013275,1.189211,-0.4947019" rotation="0,0,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="3.42712,1.189211,-2.646916" rotation="0,0,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="2.372837,1.189211,-5.877052" rotation="0,0,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="-1.379324,1.123382,-3.858494" rotation="0,90,0" scale="0.4,0.5,0.5" type="Prefab" />
+    <prefab name="ObstacleMovable" position="1.714256,0.476276,-1.805425" rotation="0,90,0" scale="0.4,0.3,0.15" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="MemekoBall" position="-3.06197,0.169359,-6.510177" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="DodgeBall" position="1.075835,0.169359,5.211589" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleMovable" position="0.7376099,0.476276,1.608565" rotation="0,70.08505,0" scale="0.4,0.3,0.19" type="Prefab" />
+  </level>
+  <level name="LEVEL-12" nextlevel="LEVEL-13" challengetime="15" levelnumber="12" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ObstacleWallLittle" position="-2.894639,1.123382,-3.858494" rotation="0,90,0" scale="0.4,0.5,0.2" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="MemekoBall" position="-3.06197,0.169359,-6.510177" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="DodgeBall" position="1.218522,0.169359,5.211589" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleMovable" position="3.107859,0.476276,1.608565" rotation="0,90,0" scale="0.4,0.3,0.19" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="1.150742,1.189211,-1.52046" rotation="0,90,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="3.293484,1.123382,-6.464601" rotation="0,50,0" scale="0.5,0.5,0.2" type="Prefab" />
+  </level>
+  <level name="LEVEL-13" nextlevel="LEVEL-14" challengetime="15" levelnumber="13" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ObstacleMovable" position="-2.776756,0.476276,-2.923426" rotation="0,0,0" scale="0.4,0.3,0.3" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="-1.217739,1.189211,-5.290361" rotation="0,90,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="ForceObstacle" position="-2.508213,-0.3941202,2.340191" rotation="0,0,0" scale="1.3,0.5,1.3" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="MemekoBall" position="2.804986,0.169359,-6.510177" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="DodgeBall" position="-2.536331,0.169359,0.3537532" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleMovable" position="0.3444643,0.4762756,-3.416252" rotation="0,0,0" scale="0.4,0.3,0.2" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="1.854777,1.189211,-1.520461" rotation="0,90,0" scale="0.4,0.5,0.3" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="-3.644753,1.123381,7.057188" rotation="0,60.39368,0" scale="0.5,0.5,0.2" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="-4.076746,0,0.09499002" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+  </level>
+  <level name="LEVEL-14" nextlevel="LEVEL-15" challengetime="15" levelnumber="14" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ObstacleWallRotational" position="-1.968709,1.189211,-4.586328" rotation="0,90,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="ObstacleMovable" position="-0.5621243,0.476276,-2.986638" rotation="0,0,0" scale="0.4,0.3,0.15" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="MemekoBall" position="-3.132373,0.169359,-6.956065" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="DodgeBall" position="2.415376,0.169359,5.305464" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleMovable" position="0.8080117,0.476276,-3.014596" rotation="0,0,0" scale="0.4,0.3,0.15" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="2.253731,1.189211,-4.61821" rotation="0,90,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="-3.644753,1.123381,7.057188" rotation="0,60.39368,0" scale="0.5,0.5,0.2" type="Prefab" />
+    <prefab name="cilindro2x2x1" position="4.008251,0,6.952612" rotation="0,0,0" scale="2,1,2" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="-4.194085,0,-3.073166" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+  </level>
+  <level name="LEVEL-15" nextlevel="LEVEL-16" challengetime="15" levelnumber="15" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ForceObstacle" position="3.663922,-0.3941202,-4.312891" rotation="0,0,0" scale="1.3,0.5,1.3" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="MemekoBall" position="0.02049315,0.169359,-6.956065" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleWallLittle" position="0.1051223,1.123382,-0.2986757" rotation="0,90,0" scale="0.5,0.5,0.35" type="Prefab" />
+    <prefab name="DodgeBall" position="-2.901743,0.169359,-3.992828" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleWallLittle" position="-3.644753,1.123381,7.057188" rotation="0,71.3307,0" scale="0.5,0.5,0.2" type="Prefab" />
+    <prefab name="cilindro2x2x1" position="-5.209876,0,-1.70442" rotation="0,0,0" scale="2,1,2" type="Prefab" />
+  </level>
+  <level name="LEVEL-16" nextlevel="LEVEL-17" challengetime="10" levelnumber="16" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ObstacleWallRotational" position="0.8829777,1.189211,7.631438" rotation="0,90,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="ObstacleMovable" position="2.5159,0.476276,5.423041" rotation="0,0,0" scale="0.4,0.3,0.28" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="0.882977,1.189211,3.222767" rotation="0,90,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="-1.708783,1.189211,3.864029" rotation="0,90,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="ObstacleMovable" position="-3.282166,0.476276,2.216735" rotation="0,0,0" scale="0.4,0.3,0.2" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="1.798698,1.189211,1.318617" rotation="0,90,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="ObstacleMovable" position="3.151845,0.476276,-1.677397" rotation="0,0,0" scale="0.4,0.3,0.4" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="-3.162994,0,-0.399746" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="ForceObstacle" position="4.171587,-0.3941202,-4.633522" rotation="0,0,0" scale="1.3,0.5,1.3" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="1.631925,1.189211,-4.662899" rotation="0,90,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="3.612141,0,2.931667" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="-1.708783,1.189211,0.5508438" rotation="0,90,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="MemekoBall" position="-3.105656,0.169359,-6.71559" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="DodgeBall" position="-0.5771787,0.169359,6.534544" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleMovable" position="-0.1004442,0.476276,-3.121473" rotation="0,0,0" scale="0.4,0.3,0.18" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="1.562936,0,-3.34265" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="-1.673989,1.189211,-1.598938" rotation="0,90,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="-1.763467,0,-5.066505" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="-4.353642,0,-2.655695" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="-1.77477,0,-2.668207" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="-4.354403,0,-4.996948" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+  </level>
+  <level name="LEVEL-17" nextlevel="LEVEL-18" challengetime="10" levelnumber="17" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ObstacleMovable" position="0.6455564,0.476276,0.4265452" rotation="0,0,0" scale="0.4,0.3,0.2" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="-3.483624,0,-0.4264641" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="ForceObstacle" position="3.04938,-0.3941202,-3.110527" rotation="0,0,0" scale="1.3,0.5,1.3" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="MemekoBall" position="-2.651429,0.169359,-6.71559" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleWallLittle" position="1.272409,1.123382,3.20361" rotation="0,349.4249,0" scale="0.5,0.5,0.2" type="Prefab" />
+    <prefab name="DodgeBall" position="-2.634557,0.169359,-3.992813" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleMovable" position="-2.478455,0.476276,2.195645" rotation="0,0,0" scale="0.4,0.3,0.18" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="-0.1470942,0,-1.392148" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="-3.312269,1.123382,5.862497" rotation="0,0,0" scale="0.5,0.5,0.3" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="-1.068767,0,-5.066505" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="-4.139889,0,-2.308344" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="-0.7327218,0,-3.042276" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="cilindro1x1x1" position="-4.354403,0,-4.596161" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+  </level>
+  <level name="LEVEL-18" nextlevel="LEVEL-19" challengetime="10" levelnumber="18" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ObstacleMovable" position="3.905301,0.476276,-2.672882" rotation="0,0,0" scale="0.4,0.3,0.28" type="Prefab" />
+    <prefab name="ObstacleMovable" position="2.207055,0.476276,-0.1241912" rotation="0,117.6442,0" scale="0.4,0.3,0.2" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="-1.653991,1.123382,-2.516369" rotation="0,104.7789,0" scale="0.5,0.5,0.3" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="MemekoBall" position="-2.651429,0.169359,-6.020892" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleWallLittle" position="4.119242,1.123382,-7.088303" rotation="0,58.81815,0" scale="0.5,0.5,0.1" type="Prefab" />
+    <prefab name="DodgeBall" position="0.06408465,0.169359,1.644936" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleMovable" position="1.541323,0.4762756,-4.79149" rotation="0,74.52847,0" scale="0.4,0.3,0.2" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="-4.057878,1.123382,4.531033" rotation="0,5.641556,0" scale="0.4,0.5,0.2" type="Prefab" />
+  </level>
+  <level name="LEVEL-19" nextlevel="LEVEL-20" challengetime="10" levelnumber="19" cameraSize="9.3" memekoForce="40" maxturns="1">
+    <prefab name="ObstacleWallRotational" position="-3.081195,1.189211,5.884601" rotation="0,0,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="ForceObstacle" position="-0.004120588,-0.3941202,4.673004E-05" rotation="0,0,0" scale="1.3,0.5,1.3" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="2.197378,1.123382,-2.516369" rotation="0,90,0" scale="0.5,0.5,0.3" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="MemekoBall" position="-1.167481,0.169359,-6.677247" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="DodgeBall" position="-1.277172,0.169359,5.212109" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleMovable" position="-1.117272,0.476276,-3.043867" rotation="0,0,0" scale="0.4,0.3,0.1" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="-2.57829,1.189211,-4.274825" rotation="0,90,0" scale="0.3,0.5,0.3" type="Prefab" />
+  </level>
+  <level name="LEVEL-20" nextlevel="LEVEL-21" challengetime="15" levelnumber="20" cameraSize="9.3" memekoForce="40" maxturns="2">
+    <prefab name="ObstacleWallLittle" position="-3.807835,1.123382,0.4221145" rotation="0,90,0" scale="0.4,0.5,0.1" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="-3.081195,1.189211,5.884601" rotation="0,0,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="ObstacleMovable" position="-0.4724019,0.476276,6.912355" rotation="0,90,0" scale="0.4,0.3,0.35" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="-1.369796,1.123382,-2.516369" rotation="0,0,0" scale="0.5,0.5,0.2" type="Prefab" />
+    <prefab name="CompleteBoard_1" position="0,0,-0.6081705" rotation="0,0,0" scale="1,1,1" type="Prefab" />
+    <prefab name="MemekoBall" position="-3.450473,0.169359,-3.053002" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleWallLittle" position="-2.112431,1.123382,-0.4501676" rotation="0,321.1321,0" scale="0.5,0.5,0.1" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="1.341259,1.123382,-2.579396" rotation="0,0,0" scale="0.5,0.5,0.2" type="Prefab" />
+    <prefab name="DodgeBall" position="-1.277172,0.169359,5.212109" rotation="0,0,0" scale="1.5,1.5,1.5" type="Movable" />
+    <prefab name="ObstacleMovable" position="3.905301,0.476276,-2.672882" rotation="0,0,0" scale="0.4,0.3,0.2" type="Prefab" />
+    <prefab name="ObstacleMovable" position="-3.686553,0.4762757,-6.479872" rotation="0,307.1855,0" scale="0.4,0.3,0.2" type="Prefab" />
+    <prefab name="ObstacleMovable" position="3.748636,0.476276,-6.545719" rotation="0,52.81448,0" scale="0.4,0.3,0.2" type="Prefab" />
+    <prefab name="ObstacleWallRotational" position="3.228569,1.189211,5.371171" rotation="0,339.6055,0" scale="0.3,0.5,0.3" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="2.066941,1.123382,-0.5711035" rotation="0,40.90994,0" scale="0.4,0.5,0.1" type="Prefab" />
+    <prefab name="ObstacleWallLittle" position="0.01168463,1.123382,3.038353" rotation="0,0,0" scale="0.5,0.5,0.2" type="Prefab" />
+  </level>
+  
+</pack>
